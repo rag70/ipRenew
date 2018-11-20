@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/gui">
+        <file>appLogo.png</file>
+        <file>update32X32.png</file>
+    </qresource>
+</RCC>
